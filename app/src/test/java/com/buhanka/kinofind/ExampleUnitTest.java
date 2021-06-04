@@ -1,4 +1,4 @@
-package com.example.projectandroidnew;
+package com.buhanka.kinofind;
 
 import org.junit.Test;
 

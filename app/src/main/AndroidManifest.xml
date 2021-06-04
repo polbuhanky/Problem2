@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.projectandroidnew">
+    package="com.buhanka.kinofind">
 
     <application
         android:allowBackup="true"
@@ -9,7 +9,14 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.ProjectAndroidNew">
-        <activity android:name=".MainActivity">
+        <activity android:name="com.buhanka.kinofind.Menu"></activity>
+        <activity android:name="com.buhanka.kinofind.ForgetPassword"></activity>
+        <activity android:name="com.buhanka.kinofind.Regr"></activity>
+        <activity android:name="com.buhanka.kinofind.Auth"></activity>
+        <activity android:name="com.buhanka.kinofind.Navigate"></activity>
+        <activity android:name="com.buhanka.kinofind.PredlojitProekt1"></activity>
+        <activity android:name="com.buhanka.kinofind.PredlojitProekt2"></activity>
+        <activity android:name="com.buhanka.kinofind.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "164943969448",
+    "project_id": "kinoapp-bbbcc",
+    "storage_bucket": "kinoapp-bbbcc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164943969448:android:00adf8e5a7fd169f1a569d",
+        "android_client_info": {
+          "package_name": "com.buhanka.kinofind"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164943969448-b98nvcbjku0bvip60l3i97dh3t9cp0np.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd8r3y3MRFZVm-4zVDg6bgi1SduwR_Eq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164943969448-b98nvcbjku0bvip60l3i97dh3t9cp0np.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
